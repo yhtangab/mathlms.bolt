@@ -1,0 +1,2 @@
+[functions.sync-score-sheet]
+verify_jwt = true
